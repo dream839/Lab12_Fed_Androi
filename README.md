@@ -11,7 +11,7 @@
 
 ## Что мы изучили?
 ### Создали картинки с баллами)
-[!Скриншот 1](<img width="881" height="845" alt="step7_grade_0_Fedorov" src="https://github.com/user-attachments/assets/db3d58b2-d067-4b7e-89dd-cda0dd95a3a1" />)
+[!Скриншот 1](app/img/step7_grade_0_Fedorov.png)
 [!Скриншот 2](<img width="879" height="820" alt="step7_grade_50_Fedorov" src="https://github.com/user-attachments/assets/29e2ebee-d3d2-4629-872e-b26e112fb7f2" />)
 [!Скриншот 3](<img width="909" height="919" alt="step7_grade_70_Fedorov" src="https://github.com/user-attachments/assets/6c7011b5-0fe6-427d-a05c-35b4f9668bc3" />)
 [!Скриншот 4](<img width="878" height="911" alt="step7_grade_90_Fedorov" src="https://github.com/user-attachments/assets/51203965-c77b-4b6e-ad59-32b5bacfc42d" />)
